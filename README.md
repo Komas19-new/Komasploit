@@ -16,3 +16,6 @@ The scripts in the Script Hub updates automatically.
 
 Yes you can. Use it in an alt account to not get banned in your main account
 I am not resposible for any banned accounts. 
+
+# SUPPORT
+Visit the [discord server](https://discord.gg/QUE8jHnHFt)
