@@ -1,3 +1,5 @@
+# DO NOT DOWNLOAD THE ZIP FROM THE RELEASES !!!! THE MAIN BRANCH WILL BE UPDATED.
+
 # Komasploit
 Roblox script executer
 
